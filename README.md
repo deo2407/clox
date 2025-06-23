@@ -1,4 +1,4 @@
 # clox
 Compiler for clox written in C
 
-It's inspired by this book[https://craftinginterpreters.com/contents.html]
+The project is inspired by [Creafting Interpreters](https://craftinginterpreters.com/contents.html)
